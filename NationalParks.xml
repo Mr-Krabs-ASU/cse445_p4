@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks>
+	<NationalPark Rating="4.8">
+		<Name>Grand Canyon</Name>
+		<Phone>9286387888</Phone>
+		<Address NearestAirport="Grand Canyon National Airport">
+			<Number>2</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon Village</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Zion</Name>
+		<Phone>4357723256</Phone>
+		<Phone>8337789290</Phone>
+		<Address NearestAirport="St. George Regional Airport">
+			<Number></Number>
+			<Street>W Zion Pk Blvd</Street>
+			<City>Orderville</City>
+			<State>UT</State>
+			<Zip>84758</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yosemite</Name>
+		<Phone>2093720200</Phone>
+		<Phone>8664253366</Phone>
+		<Address NearestAirport="Mariposa-Yosemite Airport">
+			<Number>9035</Number>
+			<Street>Village Dr</Street>
+			<City>Yosemite Valley</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Redwood</Name>
+		<Phone>7074646101</Phone>
+		<Address NearestAirport="California Redwood Coast-Humboldt County Airport">
+			<Number>258</Number>
+			<Street>Davison Rd</Street>
+			<City>Orick</City>
+			<State>CA</State>
+			<Zip>95555</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Acadia</Name>
+		<Phone>2072883338</Phone>
+		<Address NearestAirport="Hancock County-Bar Harbor Airport">
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Denali</Name>
+		<Phone>9076839532</Phone>
+		<Address NearestAirport="Denali National Park Airport">
+			<Number></Number>
+			<Street>Mile 237 Highway 3</Street>
+			<City>Denali Park</City>
+			<State>AK</State>
+			<Zip>99755</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.7">
+		<Name>Great Basin</Name>
+		<Phone>7752347331</Phone>
+		<Phone>7752347520</Phone>
+		<Address NearestAirport="Salt Lake City International Airport">
+			<Number></Number>
+			<Street>Nevada 488</Street>
+			<City>Baker</City>
+			<State>NV</State>
+			<Zip>89311</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Saguaro</Name>
+		<Phone>5207335153</Phone>
+		<Phone>8006388350</Phone>
+		<Phone>5206241817</Phone>
+		<Address NearestAirport="Tucson International Airport">
+			<Number>3693</Number>
+			<Street>S Old Spanish Trail</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85730</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Yellowstone</Name>
+		<Phone>3073447381</Phone>
+		<Address NearestAirport="Yellowstone Airport">
+			<Number>2 Officers Row</Number>
+			<Street>Yellowstone National Park Headquarters</Street>
+			<City>Yellowstone National Park</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Carlsbad Caverns</Name>
+		<Phone>5757852232</Phone>
+		<Address NearestAirport="Cavern City Air Terminal">
+			<Number>727</Number>
+			<Street>Carlsbad Caverns Highway</Street>
+			<City>Carlsbad</City>
+			<State>NM</State>
+			<Zip>88220</Zip>
+		</Address>
+	</NationalPark>
+</NationalParks>
