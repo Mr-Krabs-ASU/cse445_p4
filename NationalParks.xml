@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="https://mr-krabs-asu.github.io/cse445_p4/NationalParks.xsd">
+               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
@@ -30,7 +30,7 @@
 		<Phone>435-772-3256</Phone>
 		<Phone>833-778-9290</Phone>
 		<Address NearestAirport="St. George Regional Airport">
-			<Number>0</Number>
+			<Number>1</Number>
 			<Street>W Zion Pk Blvd</Street>
 			<City>Orderville</City>
 			<State>UT</State>
@@ -75,7 +75,7 @@
 		<Name>Denali</Name>
 		<Phone>907-683-9532</Phone>
 		<Address NearestAirport="Denali National Park Airport">
-			<Number>0</Number>
+			<Number>1</Number>
 			<Street>Mile 237 Highway 3</Street>
 			<City>Denali Park</City>
 			<State>AK</State>
@@ -87,7 +87,7 @@
 		<Phone>775-234-7331</Phone>
 		<Phone>775-234-7520</Phone>
 		<Address NearestAirport="Salt Lake City International Airport">
-			<Number>0</Number>
+			<Number>1</Number>
 			<Street>Nevada 488</Street>
 			<City>Baker</City>
 			<State>NV</State>
